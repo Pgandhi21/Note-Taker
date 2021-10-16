@@ -1,34 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "My note 1",
+        "text": "First Note Yay!!!",
+        "id": "f12425e9-3853-4501-aea6-4161e21efb65"
     },
     {
-        "title": "Mypost",
-        "text": "mypost"
+        "title": "My note 2",
+        "text": "Second Note Yay!!!",
+        "id": "7cc77ad5-52e0-4042-a23e-c4c95cfda3b3"
     },
     {
-        "title": "my new post",
-        "text": "i really suck at this\n"
-    },
-    {
-        "title": "my new post 2",
-        "text": "adfa",
-        "note_id": "f12425e9-3853-4501-aea6-4161e21efb65"
-    },
-    {
-        "title": "post 3",
-        "text": "asdf",
-        "note_id": "7cc77ad5-52e0-4042-a23e-c4c95cfda3b3"
-    },
-    {
-        "title": "sfg",
-        "text": "afdgd",
-        "id": "facb416e-7a27-4a48-872f-5d8451130600"
-    },
-    {
-        "title": "adv",
-        "text": "vadfv",
+        "title": "My note 3",
+        "text": "Third Note Yay!!!",
         "id": "29344759-1b27-4862-baee-d90dab80be6e"
     }
 ]
